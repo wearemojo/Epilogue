@@ -1145,7 +1145,7 @@ value = i;
 },
 {
 name = underlineThickness;
-value = 100;
+value = 200;
 },
 {
 name = underlinePosition;
@@ -1219,7 +1219,7 @@ value = i;
 },
 {
 name = underlineThickness;
-value = 100;
+value = 200;
 },
 {
 name = underlinePosition;
@@ -1293,7 +1293,7 @@ value = i;
 },
 {
 name = underlineThickness;
-value = 100;
+value = 200;
 },
 {
 name = underlinePosition;
