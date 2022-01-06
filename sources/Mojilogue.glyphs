@@ -12,7 +12,7 @@ code = "a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove a
 name = Lowercase;
 }
 );
-copyright = "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)";
+copyright = "Copyright 2021 Mojo Men Ltd (https://github.com/wearemojo/mojilogue), Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)";
 customParameters = (
 {
 name = "Enforce Compatibility Check";
