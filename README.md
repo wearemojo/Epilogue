@@ -1,4 +1,4 @@
-# Epilogue
+# Mojilogue
 ## 2 axes / Variable / 9 Weights / Italics / Sans
 
 
