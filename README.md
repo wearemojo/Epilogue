@@ -1,8 +1,6 @@
-# Epilogue
+# Mojilogue
 ## 2 axes / Variable / 9 Weights / Italics / Sans
 
-
- ![Sample of Epilogue Family.](img-epilogue.png "Epilogue")
 
  Currently at the [Latin Plus](https://github.com/googlefonts/gftools/tree/master/Lib/gftools/encodings/GF%20Glyph%20Sets) character set.
 

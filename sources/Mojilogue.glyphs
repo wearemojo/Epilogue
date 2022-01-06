@@ -12,7 +12,7 @@ code = "a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove a
 name = Lowercase;
 }
 );
-copyright = "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)";
+copyright = "Copyright 2021 Mojo Men Ltd (https://github.com/wearemojo/mojilogue), Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)";
 customParameters = (
 {
 name = "Enforce Compatibility Check";
@@ -68,7 +68,7 @@ Tag = wght;
 date = "2020-06-25 13:24:19 +0000";
 designer = "Tyler Finck";
 designerURL = "https://www.madebytyler.com";
-familyName = Epilogue;
+familyName = Mojilogue;
 featurePrefixes = (
 {
 automatic = 1;
@@ -88378,7 +88378,7 @@ instances = (
 customParameters = (
 {
 name = "Name Table Entry";
-value = "25; EpilogueRoman";
+value = "25; MojilogueRoman";
 }
 );
 instanceInterpolations = {
@@ -88391,7 +88391,7 @@ weightClass = Thin;
 customParameters = (
 {
 name = "Name Table Entry";
-value = "25; EpilogueRoman";
+value = "25; MojilogueRoman";
 }
 );
 interpolationWeight = 200;
@@ -88406,7 +88406,7 @@ weightClass = ExtraLight;
 customParameters = (
 {
 name = "Name Table Entry";
-value = "25; EpilogueRoman";
+value = "25; MojilogueRoman";
 }
 );
 interpolationWeight = 300;
@@ -88421,7 +88421,7 @@ weightClass = Light;
 customParameters = (
 {
 name = "Name Table Entry";
-value = "25; EpilogueRoman";
+value = "25; MojilogueRoman";
 }
 );
 interpolationWeight = 400;
@@ -88434,7 +88434,7 @@ name = Regular;
 customParameters = (
 {
 name = "Name Table Entry";
-value = "25; EpilogueRoman";
+value = "25; MojilogueRoman";
 }
 );
 interpolationWeight = 500;
@@ -88449,7 +88449,7 @@ weightClass = Medium;
 customParameters = (
 {
 name = "Name Table Entry";
-value = "25; EpilogueRoman";
+value = "25; MojilogueRoman";
 }
 );
 interpolationWeight = 600;
@@ -88464,7 +88464,7 @@ weightClass = SemiBold;
 customParameters = (
 {
 name = "Name Table Entry";
-value = "25; EpilogueRoman";
+value = "25; MojilogueRoman";
 }
 );
 interpolationWeight = 700;
@@ -88480,7 +88480,7 @@ weightClass = Bold;
 customParameters = (
 {
 name = "Name Table Entry";
-value = "25; EpilogueRoman";
+value = "25; MojilogueRoman";
 }
 );
 interpolationWeight = 800;
@@ -88495,7 +88495,7 @@ weightClass = ExtraBold;
 customParameters = (
 {
 name = "Name Table Entry";
-value = "25; EpilogueRoman";
+value = "25; MojilogueRoman";
 }
 );
 interpolationWeight = 900;

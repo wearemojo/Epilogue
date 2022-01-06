@@ -12,7 +12,7 @@ code = "a a.ss01 aacute abreve abreveacute abrevedotbelow abrevegrave abrevehook
 name = Lowercase;
 }
 );
-copyright = "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)";
+copyright = "Copyright 2021 Mojo Men Ltd (https://github.com/wearemojo/mojilogue), Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)";
 customParameters = (
 {
 name = "Enforce Compatibility Check";
@@ -64,7 +64,7 @@ value = "F6BDCC95-B00C-46EE-8A70-124DE74BF6E5";
 date = "2020-06-19 15:01:25 +0000";
 designer = "Tyler Finck";
 designerURL = "https://www.madebytyler.com";
-familyName = Epilogue;
+familyName = Mojilogue;
 featurePrefixes = (
 {
 automatic = 1;

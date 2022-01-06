@@ -10,3 +10,4 @@
 # Name <email address>
 
 Rosalie Wagner <mail@rosaliewagner.com>
+James Billingham <github@jamesbillingham.com>
